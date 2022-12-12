@@ -45,7 +45,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     </div>
     <div class="w3-padding-64">
       <a href="/" class="w3-button w3-black w3-block w3-hover-blue-grey w3-padding-16">Home</a>
-      <a href="/work" class="w3-button w3-black w3-block w3-hover-teal w3-padding-16">My Work</a>
+     
       <a href="/resume" class="w3-button w3-black w3-block w3-hover-dark-grey w3-padding-16">resume</a>
       <a href="/dashboard" class="w3-button w3-black w3-block w3-hover-dark-grey w3-padding-16">sample Dashboard</a>
       <a href="#contact" class="w3-button w3-black w3-block w3-hover-brown w3-padding-16">Contact</a>
